@@ -599,4 +599,3 @@ Java Io 流共涉及 40 多个类，这些类看上去很杂乱，但实际上�
 
 **Java 工程师必备学习资源:** 一些 Java 工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。
 
-![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
